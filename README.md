@@ -1,23 +1,23 @@
 ## Hello! I'm Veronika and welcome to my GitHub.👋
 
 ### Skills:
-Development: C++, HTML5, Bootstrap, Unity & C# scripts, Linux (Bash/Terminal), Ubuntu
+💻 Development: C++, HTML5, Bootstrap, Unity & C# scripts, Linux (Bash/Terminal), Ubuntu
 
-Design & Other : Figma, Sublime Text, VS Code, MSWord, MSExcel, VirtualMachine, Jira, Slack, MSTeams
+💻 Design & Other : Figma, Sublime Text, VS Code, MSWord, MSExcel, VirtualMachine, Jira, Slack, MSTeams
 
-Reach me on Discord: alienxnymph
+👾 Reach me on Discord: alienxnymph
 
 
 ### Current Focus
-The Goal: Successfully navigating my First Semester and mastering core IT fundamentals.
+🎓 The Goal: Successfully navigating my First Semester and mastering core IT fundamentals.
 
-Study Tracks: Deep diving into Linux, network structures, and system hardware.
+🎓 Study Tracks: Deep diving into Linux, network structures, and system hardware.
 
-Exams: Currently in "Focus Mode" for end-of-semester assessments and some other work. 📚
+🎓 Exams: Currently in "Focus Mode" for end-of-semester assessments and some other work. 📚
 
-Side hustle: Managing an online venture while transitioning into the tech world. 
+💼 Side hustle: Managing an online venture while transitioning into the tech world. 
 
-Other job experiences: Customer Support Specialist in Rental Car services _(managed high pressure situations)_ , Translator (Russian-Latvian-English) _I know how to solve problems for people, not just computers_, Product Marketing in small stands
+💼 Other job experiences: Customer Support Specialist in Rental Car services _(managed high pressure situations)_ , Translator (Russian-Latvian-English) _I know how to solve problems for people, not just computers_, Product Marketing in small stands
 
 
 <!--
