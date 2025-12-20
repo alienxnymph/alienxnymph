@@ -5,7 +5,7 @@
 
 💻 Design & Other : Figma, Sublime Text, VS Code, MSWord, MSExcel, VirtualMachine, Jira, Slack, MSTeams
 
-👾 Reach me on Discord: alienxnymph
+👾 Reach me on Discord: ### alienxnymph
 
 
 ### Current Focus
