@@ -17,7 +17,7 @@
 
 💼 Side hustle: Managing an online venture while transitioning into the tech world. 
 
-💼 Other job experiences: Customer Support Specialist in Rental Car services _(managed high pressure situations)_ , Translator (Russian-Latvian-English) _I know how to solve problems for people, not just computers_, Product Marketing in small stands
+💼 Other job experiences: Customer Support Specialist in Rental Car services _(managed high pressure situations)_ , Translator (Russian-Latvian-English), Product Marketing in small stands
 
 
 <!--
